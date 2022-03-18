@@ -5,7 +5,7 @@
 
 *本文所有推荐的免费软件均可在[物语云资源中心](https://dl.wuyuidc.com)获取，该站仅为方便广大用户使用，对官方发布的原文件毫无修改的镜像加速，如有需要可自行验证哈希值。也不会以镜像的任何文件盈利。若侵犯到有关方面的权利，可直接与我联系，我们将会积极配合处理。*
 
-## 浏览器
+# 浏览器
 ## Chrome
 
 [官方网站](https://www.google.cn/chrome/)
@@ -19,8 +19,8 @@ Chrome 是由 Google 打造的多功能高性能网页浏览器，是目前最�
 Mozilla Firefox，俗称“火狐”（正式缩写为Fx或fx），是由 Mozilla 基金会开发的自由及开放源代码的网页浏览器，也是目前市场占有率仅次于 Chrome 的主流浏览器。
 由于新版本 Windows 都预装了 Edge 浏览器的缘故，加上我也是 Chrome 的忠实守护者，所以也就没怎么使用过较新版本的 FireFox ，所以对于实际使用体验并没有什么资格评价，但我觉得官网的设计是真的非常棒！
 
-## 压缩包
-### BandiZip
+# 压缩包
+## BandiZip
 
 ![图片](./images/bandizip.png)
 
@@ -37,7 +37,7 @@ BandiZip与WinRAR的具体区别我并没有进行详细的对比，仅从我个
 
 **注：根据官网信息，6.x版本疑似存在安全漏洞，因此请您自行选择是否使用该版本。**
 
-### 7Zip
+## 7Zip
 
 ![图片](./images/7z.png)
 
@@ -48,8 +48,8 @@ BandiZip与WinRAR的具体区别我并没有进行详细的对比，仅从我个
 7z是非常知名的一款压缩软件和压缩格式。尽管包括 BandiZip 在内的绝大多数压缩包管理工具都支持对7z格式的压缩和解压缩，但7z官方本体的简洁和高性能深深地吸引了我。
 一般我会将 BandiZip 和 7z 两款压缩包软件同时安装，日常使用 BandiZip，数据量大的压缩和解压就会使用7z了。根据个人使用发现，7z支持的处理器线程数比BandiZip更多一些，不清楚是我的设置问题还是本身如此，未做进一步求证。
 
-## 下载器
-### Motrix
+# 下载器
+## Motrix
 
 ![图片](./images/motrix.png)
 
@@ -60,7 +60,7 @@ BandiZip与WinRAR的具体区别我并没有进行详细的对比，仅从我个
 Motrix 是我最近才了解到的一款下载器，本来我以为 FDM 已经足够简洁实用了，但当我安装了 Motirx 的那一刻，我想对我的 FDM 说：“对不起，这一别可能就是永远了。”
 就我个人使用而言，Motrix 比起 FDM 最大的优势就是可以自定义下载时的 User-Agent ，这对于经常在某度网盘上下载懂得都懂影片的我来说，简直就是莫大的福音，我终于可以不再使用破解版的界面丑陋的 [IDM](https://www.internetdownloadmanager.com/) 了！（不知道为什么IDM非要创建一堆文件夹非常烦）
 
-### Free Download Manager
+## Free Download Manager
 
 ![图片](./images/fdm.png)
 
@@ -70,15 +70,15 @@ Free Download Manager 简称 FDM，是一款和 [IDM](https://www.internetdownlo
 
 由于 IDM 是付费软件，且界面和使用体验属实是给我整不会了，所以我在多年以前了解到了 FDM 这一款下载器，它在早期的版本是开源的，不过最新的版本已经是完全闭源的了。如果我没有了解到 Motrix 的话，FDM 恐怕会是我对下载器的唯一推荐。
 
-## 文本编辑器
-### NotePad++
+# 文本编辑器
+## NotePad++
 NotePad++ 是一款免费开源的文本编辑器，仅支持 Windows 平台。
 
 本身这个编辑器是挺好的，非常适合我的工作流程使用，但是我就不知道这个脑瘫开发者的母亲是什么时候寄了，它就要辱华，它就要展示一下自己微弱的存在感，纯粹是恶心国人。不过因为软件本身是开源的，其实可以fork一份出来改个名字搞黑命贵，但暂时还没发现有这么搞的好心人，也许是因为GPG签名的问题。
 
 所以我也就不放官网链接了，有需要的自行查找获取吧。
 
-### Visual Studio Code
+## Visual Studio Code
 
 ![图片](./images/vsc.png)
 
@@ -90,7 +90,7 @@ Visual Studio Code 简称 VSC ，是微软开发套件 Visual Studio 系列里�
 
 另外 JetBrains 即将推出全新的次时代 IDE：[Fleet](https://www.jetbrains.com/fleet/)，目前处于内测阶段，有兴趣可以关注一下。
 
-### Atom
+## Atom
 
 ![图片](./images/atom.png)
 
@@ -102,7 +102,7 @@ Atom 是 Github 开发的免费开源的文本编辑器。
 
 我个人接触次数并不多，之前使用它的原因是因为原生支持编辑亲儿子语言 Markdown ，和 VSC 类似，也支持跨平台编辑，内置包管理器，总之还算是功能比较全面的了。
 
-### Sublime Text
+## Sublime Text
 
 ![图片](./images/sublime.png)
 
@@ -110,8 +110,8 @@ Atom 是 Github 开发的免费开源的文本编辑器。
 
 Sublime Text 也是一款轻量级的文本编辑器，不过它是付费的而且价格不菲，但有试用版可以免费体验。推荐它的原因是因为界面还算是非常简洁干净，功能也很丰富，不过我个人就没有使用过了，可以作为riiiiich man的文本编辑解决方案。
 
-## 多媒体工具
-### PotPlayer
+# 多媒体工具
+## PotPlayer
 
 ![图片](./images/potplayer.png)
 
@@ -129,8 +129,8 @@ Open Broadcaster Software 简称 OBS，是一款非常专业强大且免费开�
 
 OBS 支持极其细致的推流和录屏参数配置，以及直播场景部署。诸多直播平台自己的直播管理软件也是基于 OBS 二次开发的。
 
-## 文件管理
-### Everything
+# 文件管理
+## Everything
 
 ![图片](./images/everything.png)
 
@@ -142,7 +142,7 @@ OBS 支持极其细致的推流和录屏参数配置，以及直播场景部署�
 
 Windows 资源管理器自带的文件搜索属实是太拉胯了，以至于让我怀疑它真的在认真找但是却找不到。Everything 的效率恐怕会让你大吃一惊，无论藏在任何一个角落，它都能在一瞬间帮你找到，让你的无论是小姐姐还是大姐姐都无所遁形。
 
-### WizTree
+## WizTree
 
 ![图片](./images/wiztree.png)
 
@@ -152,8 +152,8 @@ Wiztree 是一款强大的磁盘空间占用分析工具，能够帮你找出磁
 
 它吸引我的一点在于能够通过色块的形式生动形象地展示出到底是哪个大傻卵占了我那么多空间。况且，它对于个人性质的使用是完全免费的，除了会有一个小小的捐赠按钮以外，和企业版似乎并没有什么区别。
 
-## 系统相关
-### 火绒
+# 系统相关
+## 火绒
 
 ![图片](./images/huorong.png)
 
@@ -163,7 +163,7 @@ Wiztree 是一款强大的磁盘空间占用分析工具，能够帮你找出磁
 
 火绒恐怕不必过多介绍，它是一款干净、简单、轻巧、易用的安全软件，相比其他厂商的全家桶式安全管家，火绒着实可以说是一股清流了。
 
-### DirectX Repair
+## DirectX Repair
 
 ![图片](./images/dxrepair.png)
 
@@ -176,7 +176,7 @@ Wiztree 是一款强大的磁盘空间占用分析工具，能够帮你找出磁
 
 推荐这款软件的原因是，它除了能修复 DirectX 问题之外，还能够一键安装包含API Sets 的 VC++ 运行库，简直是装机必备法器！
 
-### Dism++
+## Dism++
 
 ![图片](./images/dism.png)
 
@@ -190,8 +190,8 @@ Dism++ 是一款 Windows 系统管理优化工具，它解决了我们安装、�
 
 **注： Dism++ 的一些操作可能对系统存在不可逆的影响，请注意结合自己的使用情况按需谨慎使用。**
 
-## 远程连接
-### mRemoteNG
+# 远程连接
+## mRemoteNG
 
 ![图片](./images/mremoteng.png)
 
@@ -205,7 +205,7 @@ mRemoteNG 是 mRemote 的一个分支项目，它是免费开源的、支持多�
 
 [Xmanager](https://www.xshell.com/zh/xmanager/) 同样拥有这些功能，但它是付费的，我也没用过。
 
-### SecureCRT
+## SecureCRT
 
 ![图片](./images/securecrt.png)
 
@@ -221,8 +221,8 @@ SecureCRT 是我自接触 Linux 以来就在使用的 SSH 终端，它真的功�
 
 值得注意的是，SecureCRT 是一款付费软件。因此可以尝试使用免费的 [PuTTY](https://www.putty.org/) 或者 [Finalshell](https://www.hostbuf.com/) , 还可以使用 [Xshell](https://www.xshell.com/zh/xshell/) ，其对家庭和学校的非商用行为是免费的，可以通过电子邮箱申请下载链接。上述免费软件我并没有使用过，但是知名度相当之高，身边的朋友也基本上都在使用，故作推荐。
 
-## 数据库管理
-### Navicat Premium
+# 数据库管理
+## Navicat Premium
 
 ![图片](./images/navicat.png)
 
@@ -232,8 +232,8 @@ SecureCRT 是我自接触 Linux 以来就在使用的 SSH 终端，它真的功�
 
 总之 Navicat Premium 就是一个非常强大且易用的数据库管理工具，GUI 设计非常人性化，人人都能直接上手。不过它是一个付费软件，而且就算是非商业许可也并不便宜，只能说是一分价钱一分货了。
 
-## 密码管理器
-### KeePass
+# 密码管理器
+## KeePass
 
 ![图片](./images/keepass.png)
 
