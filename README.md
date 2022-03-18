@@ -31,7 +31,7 @@ Mozilla Firefox，俗称“火狐”（正式缩写为Fx或fx），是由 Mozill
 与 WinRAR 一样，BandiZip 的免费版本尽管同样拥有广告植入，但其仅限在首页显示一个贴片窗口，并无弹窗广告，对实际体验并无影响。但相比起使用破解版的 WinRAR，BandiZip 的最后一个无广告免费版本v6.29就成了合情合理合法的最佳选择。
 BandiZip与WinRAR的具体区别我并没有进行详细的对比，仅从我个人的使用体验来讲，BandiZip 的功能有过之而无不及，同时 BandiZip 更现代的扁平化风格，也是已经深入人心的优秀方案。
 
-> 对于 Windows 11 用户，更建议使用 Bandizip 7，因为其正确支持了 Windows 11 的新版右键上下文菜单，无需您点击“显示更多选项”即可进行压缩操作。
+*对于 Windows 11 用户，更建议使用 Bandizip 7，因为其正确支持了 Windows 11 的新版右键上下文菜单，无需您点击“显示更多选项”即可进行压缩操作。*
 
 [6.29版本下载](https://www.bandisoft.com/bandizip/old/6/)
 
