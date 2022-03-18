@@ -7,15 +7,17 @@
 
 ## 浏览器
 ## Chrome
-Chrome 是由 Google 打造的多功能高性能网页浏览器，是目前最为主流的一种浏览器。[Chromium](https://www.chromium.org/) 是其开源内核，也是为众多浏览器所采用的的内核。总之就非常好用就是了，由于众所周知的原因，Chrome的拓展插件商店在大陆无法舒适地访问，因此我个人十分推荐微软基于 Chromium 内核开发的 [Edge 浏览器](https://www.microsoft.com/zh-cn/edge?r=1)。
 
 [官方网站](https://www.google.cn/chrome/)
 
+Chrome 是由 Google 打造的多功能高性能网页浏览器，是目前最为主流的一种浏览器。[Chromium](https://www.chromium.org/) 是其开源内核，也是为众多浏览器所采用的的内核。总之就非常好用就是了，由于众所周知的原因，Chrome的拓展插件商店在大陆无法舒适地访问，因此我个人十分推荐微软基于 Chromium 内核开发的 [Edge 浏览器](https://www.microsoft.com/zh-cn/edge?r=1)。
+
 ## FireFox
-Mozilla Firefox，俗称“火狐”（正式缩写为Fx或fx），是由 Mozilla 基金会开发的自由及开放源代码的网页浏览器，也是目前市场占有率仅次于 Chrome 的主流浏览器。
-由于新版本 Windows 都预装了 Edge 浏览器的缘故，加上我也是 Chrome 的忠实守护者，所以也就没怎么使用过较新版本的 FireFox ，所以对于实际使用体验并没有什么资格评价，但我觉得官网的设计是真的非常棒！
 
 [官方网站](https://www.mozilla.org/zh-CN/firefox/new/)
+
+Mozilla Firefox，俗称“火狐”（正式缩写为Fx或fx），是由 Mozilla 基金会开发的自由及开放源代码的网页浏览器，也是目前市场占有率仅次于 Chrome 的主流浏览器。
+由于新版本 Windows 都预装了 Edge 浏览器的缘故，加上我也是 Chrome 的忠实守护者，所以也就没怎么使用过较新版本的 FireFox ，所以对于实际使用体验并没有什么资格评价，但我觉得官网的设计是真的非常棒！
 
 ## 压缩包
 ### BandiZip
