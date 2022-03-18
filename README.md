@@ -75,6 +75,8 @@ Free Download Manager 简称 FDM，是一款和 [IDM](https://www.internetdownlo
 
 ![图片](./images/notepad3.png)
 
+[官方网站](https://www.rizonesoft.com/downloads/notepad3/)
+
 NotePad3 是在 Notepad2 基础上进行升级开发的免费开源文本编辑器，相比起 VSC 和 Sublime 来说要轻量得多，主要目标也是替换掉 Windows 自带记事本，功能上比记事本更加强大，也支持中文界面。
 Notepad3 除了基本文本编辑外，并不会自作多情在文件增加一个 BOM 头。并支持多种开发语言的语法高亮支持，支持多种外观主题，支持代码折叠等功能，查找功能支持正则表达式等。
 
